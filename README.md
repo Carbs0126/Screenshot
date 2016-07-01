@@ -1,7 +1,7 @@
 # Screenshot
 
 * [Description](#description)
-    * [confirm](#confirm)
+    * [Confirm](#confirm)
         * [src2html.pl](#src2htmlpl)
             * [Change CSS style](#change-css-style)
             * [Usage](#usage)
