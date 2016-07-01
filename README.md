@@ -1,7 +1,7 @@
 # Screenshot
 
 * [Description](#description)
-    * [Generate static HTML sites from source trees](#generate-static-html-sites-from-source-trees)
+    * [confirm](#confirm)
         * [src2html.pl](#src2htmlpl)
             * [Change CSS style](#change-css-style)
             * [Usage](#usage)
